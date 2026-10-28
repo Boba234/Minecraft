@@ -9,6 +9,11 @@ I wanted to spend some time exploring and learning about C and thought a more in
 
 - [x] Construct functional boiler-plate of C and OpenGL
 - [x] Render vertices to the screen
-- [ ] Render 3D models to the screen
-- [ ] Create a moveable player camera
+- [x] Render 3D models to the screen
+- [x] Create a moveable player camera
+- [x] Add Ambient Lighting
+- [x] Add Diffuse Lighting
+- [x] Add Specular Lighting (Complete PHONG Lighting system in OpenGL)
+- [ ] Add texture to blocks
+- [ ] Create texture atlas
 
