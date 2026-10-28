@@ -1,0 +1,3 @@
+/home/lucas/Documents/Code/Minecraft/build/CMakeFiles/Minecraft.dir
+/home/lucas/Documents/Code/Minecraft/build/CMakeFiles/edit_cache.dir
+/home/lucas/Documents/Code/Minecraft/build/CMakeFiles/rebuild_cache.dir
