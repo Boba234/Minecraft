@@ -14,6 +14,8 @@ I wanted to spend some time exploring and learning about C and thought a more in
 - [x] Add Ambient Lighting
 - [x] Add Diffuse Lighting
 - [x] Add Specular Lighting (Complete PHONG Lighting system in OpenGL)
-- [ ] Add texture to blocks
+- [x] Add texture to blocks
+- [x] Create chunk loader
+- [x] Optimize performance through face culling
 - [ ] Create texture atlas
 
